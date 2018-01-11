@@ -1,3 +1,4 @@
+//Elton Tran & Michael Pfeiffer
 import java.util.ArrayList;
 public class emperorsNewGroove {
 	
